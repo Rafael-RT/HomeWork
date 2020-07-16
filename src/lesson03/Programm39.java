@@ -9,18 +9,15 @@ public class Programm39 {
         bool a = x1.equals(1);
 
         //Ans1: primitive data and reference to object stored in stack
-        //Ans2: object of any class stored in heap. For ex.:
+        //object of any class stored in heap. For ex.:
         String y = "This object stored in heap"; // y stored reference to object in stack
 
         /*
-          byte = 1 byte
-          short = 2 byte
-          int = 4 byte
-          long = 8 byte
-          boolean = 1 bit
-          char = 2 bit
-          double = 4 byte
-          float = 8 byte
+          Ans2: Size of Wrapper classes:
+          Integer - 16 bytes
+          Long - 24 bytes
+          Double 24 bytes
+          Boolean-16 bytes
 
          */
 
