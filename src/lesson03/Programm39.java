@@ -6,7 +6,7 @@ public class Programm39 {
 
         //difference is that reference data type related
         //with classes and can call method of this class
-        bool a = x1.equals(1);
+        boolean a = x1.equals(1);
 
         //Ans1: primitive data and reference to object stored in stack
         //object of any class stored in heap. For ex.:
