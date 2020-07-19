@@ -7,7 +7,8 @@ public class Programm45 {
 
         System.out.println("&&: " + (bOne && bTwo));
         System.out.println("||: " + (bOne || bTwo));
-        System.out.println("!: " + (bOne != bTwo));
+        System.out.println("!bOne: " + (!bOne));
+        System.out.println("!bTwo: " + (!bTwo));
         System.out.println("^: " + (bOne ^ bTwo));
         System.out.println("&: " + (bOne & bTwo));
         System.out.println("|: " + (bOne | bTwo));
@@ -16,7 +17,8 @@ public class Programm45 {
         System.out.println("__________________");
         System.out.println("&&: " + (bOne && bTwo));
         System.out.println("||: " + (bOne || bTwo));
-        System.out.println("!: " + (bOne != bTwo));
+        System.out.println("!bOne: " + (!bOne));
+        System.out.println("!bTwo: " + (!bTwo));
         System.out.println("^: " + (bOne ^ bTwo));
         System.out.println("&: " + (bOne & bTwo));
         System.out.println("|: " + (bOne | bTwo));
@@ -33,7 +35,7 @@ public class Programm45 {
         */
 
         // Logical operations return boolean data type.
-        // The operation ! reverse our result, if we get true, ! does result false.
+        // Operation NOT(!) is unary operation
         // Shorthand operation like && and ||, check while we get clear result.
         // When we get only one false in the && operation, we get result false
         // and don't check other parameters, in & operation we check all parameters
