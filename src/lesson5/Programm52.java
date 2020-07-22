@@ -9,7 +9,7 @@ public class Programm52 {
         } else {
             System.out.println("It is 'else' statement!");
         }
-         //Condition must be a boolean data type
+         //Condition must be a boolean data type so it will error
 
          */
     }
